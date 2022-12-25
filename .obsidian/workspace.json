@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/03-March/2022-03-01.md",
+                "file": "02 Action/03 Goals/Create Cool Stuff.md",
                 "mode": "preview",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/03-March/2022-03-01.md",
+                "file": "02 Action/03 Goals/Create Cool Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,17 +184,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64b037a330b673e8",
+  "active": "d6300da5d0e1f0c2",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/01 Daily.md",
-    "Home.md",
+    "02 Action/03 Goals/Learn to make pastas.md",
     "02 Action/03 Goals/03 Goals.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "06 Guide/Alignment Dashboard.md",
-    "02 Action/02 Action.md",
-    "06 Guide/Quick Start.md",
-    "README.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-28.md",
-    "03 Periodic/01 Daily/2022/03-March/2022-03-01.md"
+    "02 Action/04 Values/04 Values.md",
+    "02 Action/04 Values/Prolific.md",
+    "02 Action/04 Values/Be Zesty.md",
+    "02 Action/02 Projects/Build OLM Repo.md",
+    "04 Templates/Daily Template.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-13.md",
+    "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
+    "03 Periodic/03 Monthly/2022/2022 - 02-February.md"
   ]
 }
