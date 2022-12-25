@@ -9,5 +9,5 @@ tags: project
 
 ---
 ### Tasks
-- [ ] Finish Build 🔼 📅 2022-02-27
+- [x] Finish Build 🔼 📅 2022-02-27 ✅ 2022-12-25
 - [ ] Finish Guide 🔼 📅 2022-02-28
